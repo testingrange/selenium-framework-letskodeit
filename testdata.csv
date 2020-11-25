@@ -1,0 +1,5 @@
+courseNameBox,courseName,num,exp,cvv,errorMessage
+javascript,JavaScript,5454 5045 0524 1258,"",000,Your card's expiration date is incomplete.
+javascript,JavaScript,,,,Your card number is incomplete.
+javascript,JavaScript,4534 5345 3634 6245,1123,545,Your card number is incorrect.
+selenium Webdriver with Python,Selenium WebDriver With Python 3.x,5454 5045 0524 1258,1123,545,Your card number is incorrect.
